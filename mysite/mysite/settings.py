@@ -25,12 +25,13 @@ SECRET_KEY = 'cblwj2ys$6pp9*#t#9+^_f0nbi_r0d^q9+3$+2lp+t7_iw#9c+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['django.mysite.com']
+ALLOWED_HOSTS = ['django.mysite.com', '127.0.0.1']
 
 
 # Application definition
 
 INSTALLED_APPS = [
+    'polls.apps.PollsConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -75,8 +76,12 @@ WSGI_APPLICATION = 'mysite.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'mysite',
+        'USER': 'django',
+        'PASSWORD': 'phuong@1211',
+        'HOST': '127.0.0.1',
+        'PORT': '5432',
     }
 }
 
