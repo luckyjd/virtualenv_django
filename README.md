@@ -22,3 +22,30 @@ authen/
 
 228929 - nhattx
 
+192.168.26.228 iam.sirc.vcb.com
+192.168.26.228 idm.sirc.vcb.com
+192.168.26.228 sim.sirc.vcb.com
+192.168.26.228 sms.sirc.vcb.com
+192.168.26.228 se.sirc.vcb.com
+192.168.26.228 srm.sirc.vcb.com
+192.168.26.228 netad.sirc.vcb.com
+192.168.26.228 netscan.sirc.vcb.com
+192.168.26.228 cas.sirc.vcb.com
+192.168.26.228 reporting.sirc.vcb.com
+192.168.26.228 pc.sirc.vcb.com
+192.168.26.228 template.sirc.vcb.com
+192.168.26.160 grafana.sirc.vcb.com
+192.168.26.160 grafana.sirc.vcb.com
+192.168.26.160 graphite.sirc.vcb.com
+192.168.26.160 uchiwa.sirc.vcb.com
+192.168.26.232 sms.soc.express.com
+192.168.26.232 cas.soc.express.com
+192.168.26.232 sim.soc.express.com
+192.168.26.232 srm.soc.express.com
+192.168.26.232 se.soc.express.com
+192.168.26.232 netad.soc.express.com
+192.168.26.232 iam.soc.express.com
+
+192.168.26.160 grafana.sirc.vcb.com
+192.168.26.160 graphite.sirc.vcb.com
+192.168.26.160 uchiwa.sirc.vcb.com
