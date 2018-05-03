@@ -11,7 +11,7 @@ gitlab_access_token : Qe_dc4RNbFDzmh3zjoMW
 192.168.26.232@sf
 pass ( for almost server) : 098poiA#
 
-
+doc ML : https://drive.google.com/drive/folders/1STmvfEDUIjGJTQ94Jj7b5BkJ6SBSdJnH
 
 validatedata
 pagin/
